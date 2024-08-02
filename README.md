@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **annavarapukrishna151@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/karth/Downloads/RESUME.NEW.pdf](file:///C:/Users/karth/Downloads/RESUME.NEW.pdf)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Ki57U09h6vucMmS8x7XnMz3okxwm5y3J/view?usp=drive_link
 
 - ⚡ Fun fact **The term "bug" to describe a software glitch actually comes from an actual bug. In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing an error. They documented the "first actual case of bug being found" in their logbook, and thus the term "debugging" was born.**
 
