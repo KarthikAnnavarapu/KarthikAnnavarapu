@@ -9,7 +9,9 @@
 - 👋 check out this [PEDESTRAIN DETECTION](https://github.com/KarthikAnnavarapu/INNOVATE/blob/main/innovate_project.py)
 
 
-- 🌱 I’m currently learning **Data Analytics and Machine Learning**
+- 🌱 I have good knowledge in **Data Analytics and Machine Learnin**
+
+- 🌱 I’m currently learning **Python Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarthikAnnavarapu](https://github.com/KarthikAnnavarapu)
 
